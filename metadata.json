@@ -1,0 +1,6 @@
+{
+  "name": "Smart Cost Pro",
+  "description": "Smart financial management, expense tracking, and cost calculation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
